@@ -1,5 +1,5 @@
 # ValidCheckStream
-로그인 폼이나, 회원가입 폼에 사용할 유효성 검사관련 Checking Stearm
+안드로이드(android) 로그인 폼이나, 회원가입 폼에 사용할 유효성 검사관련 Checking Stearm
 
 Java8로 넘어오면서 interface 코드를 줄일 수 있었음.
 상당히 간단한 구조로 되어있어서 멀티 쓰레딩을 생각할 경우 코드를 변경해서 사용할 수 있음
