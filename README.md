@@ -57,6 +57,13 @@ String msg = ValidCheckStream.stream()
                 .check(() ->isPwRegexCorrect(userPw), "패스워드 형식이 잘못되었습니다.")
                 .check(() ->isPwConfirmCorrect(userPw, userPwConfirm), "입력하신 패스워드와 맞지 않습니다.")
                 .result();
+if (!msg.equals("ok") {
+    // 유효성 검사 실패시
+    // print("msg")
+} else {
+    // 유효서 검사 성공시
+    // active
+}
 </pre>
 
 <h5>Result</h5>
