@@ -26,7 +26,7 @@ repositories {
 
 <pre>
 dependencies {
-    compile 'com.github.roka88:validcheckstream:0.0.1'
+    compile 'com.github.roka88:validcheckstream:0.0.2'
 }
 </pre>
 
